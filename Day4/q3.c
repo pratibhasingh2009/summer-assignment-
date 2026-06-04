@@ -1,4 +1,4 @@
-nclude<math.h>
+#include<math.h>
 #include<stdio.h>
 int main (){
     int n,n1,n2,r,d=0,armstrong=0;

@@ -7,7 +7,7 @@ int main(){
         if(n%2 ==1){
             count++;
         }
-         n =n/10;
+         n =n/2;
     } 
     printf("Number of bits is %d",count);
     return 0;

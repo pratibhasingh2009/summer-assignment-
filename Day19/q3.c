@@ -17,7 +17,7 @@ int main()
         } 
         printf("\n");
   }
-  printf("Reverse matrix of A:\n");
+  printf("Transpose matrix of A:\n");
     for(i=0;i<n;i++){
         for(j=0;j<m;j++){
             printf("%d ",a[j][i]);

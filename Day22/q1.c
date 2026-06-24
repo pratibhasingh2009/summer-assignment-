@@ -7,7 +7,6 @@ int main(){
 
   char str[n+1];
   getchar();
-
   printf("Enter a String:");
   fgets(str,n+1,stdin);
   
@@ -24,7 +23,7 @@ for(i=0;i<len/2;i++){
   }
   if(flag==1){
     printf("Number is Palindrome.");
-  }
-  printf("Number is not palindrome.");
+  } else{
+  printf("Number is not palindrome.");}
   return 0;
 }

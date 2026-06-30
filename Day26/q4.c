@@ -21,6 +21,7 @@ int main(){
         score++;
     }
     printf("\n Final Score =%d/3\n",score);
+    
     return 0;
 } 
 

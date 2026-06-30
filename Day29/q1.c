@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main()
-{ int choice;
+{ 
+    int choice;
     float num1, num2, result;
 
     printf(" MENU DRIVEN CALCULATOR \n");

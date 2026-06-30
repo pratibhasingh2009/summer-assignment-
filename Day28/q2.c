@@ -28,5 +28,6 @@ int main()
     printf("Current Balance : %.2f\n", balance);
     printf("Deposit Amount : %.2f\n", deposit);
     printf("Final Balance : %.2f\n", finalBalance);
+    
     return 0;
 }

@@ -26,6 +26,5 @@ int main()
     printf("Employee Name : %s", empName);
     printf("Department : %s", department);
     printf("Salary : %.2f\n", salary);
-
     return 0;
 }

@@ -16,7 +16,8 @@ int main(){
     for(j=i+1;str[j]!='\0' && str[j]!='\n';)
  {
     if(str[i]==str[j]){
-        for(k=j;str[k]!='\0';k++){
+        for(k=j;str[k]!='\0';k++)
+        {
             str[k]=str[k+1];
         }
     } 

@@ -7,6 +7,7 @@ int main(){
     printf("Enter second no. for names :");
     scanf("%d",&m);
     getchar();
+    
     char word[n][m],temp[m];
     for(i=0;i<n;i++)
     {

@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main()
 {
     int bookId;
@@ -26,6 +25,5 @@ int main()
     printf("Book Name : %s", bookName);
     printf("Author Name : %s", authorName);
     printf("Quantity : %d\n", quantity);
-
     return 0;
 }

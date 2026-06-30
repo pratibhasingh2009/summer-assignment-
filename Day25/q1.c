@@ -25,7 +25,8 @@ int main(){
         }
         k++;
     }
-    while(i<n1){
+    while(i<n1)
+    {
         crr[k]=arr[i];
         i++;
         k++;

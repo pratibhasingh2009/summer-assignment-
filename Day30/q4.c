@@ -42,6 +42,5 @@ int main()
     }
 
     display(roll, name, marks, 3);
-
     return 0;
 }

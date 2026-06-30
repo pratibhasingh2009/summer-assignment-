@@ -21,7 +21,7 @@ int main()
     printf("Enter Salary: ");
     scanf("%f", &salary);
 
-    printf("\n------ Employee Details ------\n");
+    printf("\n Employee Details \n");
     printf("Employee ID : %d\n", empId);
     printf("Employee Name : %s", empName);
     printf("Department : %s", department);

@@ -15,7 +15,7 @@ int main()
         scanf("%d", &arr[i]);
     }
 
-    printf("\n===== ARRAY MENU =====\n");
+    printf("\n ARRAY MENU \n");
     printf("1. Display Array\n");
     printf("2. Find Sum\n");
     printf("3. Find Largest Element\n");

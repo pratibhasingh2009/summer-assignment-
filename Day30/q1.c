@@ -26,7 +26,7 @@ int main()
         printf("\n");
     }
 
-    printf("\n------ Student Records ------\n");
+    printf("\n Student Records \n");
 
     for(i = 0; i < 5; i++)
     {

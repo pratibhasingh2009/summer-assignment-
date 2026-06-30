@@ -5,7 +5,7 @@ int main()
     int choice;
     float num1, num2, result;
 
-    printf("===== MENU DRIVEN CALCULATOR =====\n");
+    printf(" MENU DRIVEN CALCULATOR \n");
     printf("1. Addition\n");
     printf("2. Subtraction\n");
     printf("3. Multiplication\n");

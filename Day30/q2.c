@@ -26,6 +26,5 @@ int main()
     printf("Book Name : %s", bookName);
     printf("Author : %s", author);
     printf("Quantity : %d\n", quantity);
-
     return 0;
 }

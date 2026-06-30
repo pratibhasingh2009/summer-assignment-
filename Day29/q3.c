@@ -12,7 +12,7 @@ int main()
     printf("Enter Second String: ");
     fgets(str2, 100, stdin);
 
-    printf("\n===== STRING MENU =====\n");
+    printf("\n STRING MENU \n");
     printf("1. Find Length of First String\n");
     printf("2. Copy First String\n");
     printf("3. Concatenate Strings\n");

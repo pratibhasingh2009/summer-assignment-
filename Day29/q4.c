@@ -22,7 +22,7 @@ int main()
 
     totalCost = quantity * price;
 
-    printf("\n------ Inventory Details ------\n");
+    printf("\n Inventory Details \n");
     printf("Product ID : %d\n", productId);
     printf("Product Name : %s", productName);
     printf("Quantity : %d\n", quantity);

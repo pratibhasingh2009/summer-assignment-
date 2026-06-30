@@ -9,5 +9,6 @@ int main(){
     else{
         printf("You are not eligible for vote.");
     }
+    
     return 0;
 }

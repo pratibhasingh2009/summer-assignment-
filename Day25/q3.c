@@ -17,7 +17,8 @@ int main(){
       }
     }
 
-    for(i=0;i<n-1;i++){
+    for(i=0;i<n-1;i++)
+    {
         for(j=i+1;j<n;j++){
             if(strcmp(name[i],name[j])>0){
                 strcpy(temp,name[i]);

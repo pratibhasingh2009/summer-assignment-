@@ -16,12 +16,11 @@ int main()
 
     printf("Enter Basic Salary: ");
     scanf("%f", &basicSalary);
-
     hra = basicSalary * 20 / 100;
     da = basicSalary * 10 / 100;
     totalSalary = basicSalary + hra + da;
 
-    printf("\n------ Salary Record ------\n");
+    printf("\n Salary Record \n");
     printf("Employee ID : %d\n", empId);
     printf("Employee Name : %s", empName);
     printf("Basic Salary : %.2f\n", basicSalary);

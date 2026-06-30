@@ -34,6 +34,5 @@ int main()
     printf("Number of Seats : %d\n", seats);
     printf("Ticket Price : %.2f\n", ticketPrice);
     printf("Total Amount : %.2f\n", totalAmount);
-
     return 0;
 }

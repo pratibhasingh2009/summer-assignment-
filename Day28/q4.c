@@ -15,7 +15,7 @@ int main()
     printf("Enter Email ID: ");
     fgets(email, 50, stdin);
 
-    printf("\n------ Contact Details ------\n");
+    printf("\n Contact Details \n");
     printf("Name : %s", name);
     printf("Phone Number : %s", phone);
     printf("Email ID : %s", email);

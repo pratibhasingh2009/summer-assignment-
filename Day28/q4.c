@@ -19,6 +19,5 @@ int main()
     printf("Name : %s", name);
     printf("Phone Number : %s", phone);
     printf("Email ID : %s", email);
-
     return 0;
 }

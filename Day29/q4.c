@@ -28,6 +28,5 @@ int main()
     printf("Quantity : %d\n", quantity);
     printf("Price Per Item : %.2f\n", price);
     printf("Total Cost : %.2f\n", totalCost);
-
     return 0;
 }

@@ -40,7 +40,6 @@ int main()
 
         printf("\n");
     }
-
     display(roll, name, marks, 3);
     return 0;
 }

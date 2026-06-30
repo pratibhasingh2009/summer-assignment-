@@ -48,6 +48,5 @@ int main()
         printf("Grade : D\n");
     else
         printf("Grade : Fail\n");
-
     return 0;
 }

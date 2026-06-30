@@ -12,7 +12,8 @@ int main(){
   printf("Enter first String: ");
   fgets(str1,n1+1,stdin);
   int len1 =strlen(str1);
-  if(str1[len1-1]=='\n'){
+  if(str1[len1-1]=='\n')
+  {
     str1[len1-1]='\0';
   }
   printf("Enter size of second string:");

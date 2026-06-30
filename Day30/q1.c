@@ -35,6 +35,5 @@ int main()
         printf("Name : %s", name[i]);
         printf("Marks : %.2f\n", marks[i]);
     }
-
     return 0;
 }

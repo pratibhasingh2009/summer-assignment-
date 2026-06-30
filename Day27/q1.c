@@ -32,9 +32,7 @@ int main()
     printf("Subject 1 Marks : %.2f\n", marks1);
     printf("Subject 2 Marks : %.2f\n", marks2);
     printf("Subject 3 Marks : %.2f\n", marks3);
-    
     printf("Total Marks : %.2f\n", total);
-
     printf("Percentage : %.2f%%\n", percentage);
 
     return 0;

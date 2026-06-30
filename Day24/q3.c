@@ -29,7 +29,7 @@ int main(){
             maxstart=start;
         } 
    printf("Longest word: ");
-   for(i=maxstart;i<maxstart+max;i++){
+   for(i=maxstart;i<maxstart +max;i++){
     printf("%c",str[i]);
    }     
    printf("\nLength %d",max);
